@@ -1,0 +1,24 @@
+/**/
+
+#cabecalho, #resultado{
+  text-align: center;
+}
+
+#cabecalho{
+  background-color: #0062cd;
+  border-bottom: solid #CCC 1px;
+  color: white;
+}
+
+h3{
+  margin: 20px;
+}
+
+p, #verificar{
+  margin-top: 20px;
+}
+
+.imagem{
+  height: 100%;
+  width: 100%;
+}
